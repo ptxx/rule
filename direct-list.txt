@@ -78,3 +78,11 @@ aiqiyi.com
 lbdimg.com
 bdstatic.com
 zaodian.com
+meituan.com
+dianping.com
+maoyan.com
+qiandai.com
+zhenguo.com
+meituan.net
+dianping.com.cn
+zhenguo.net
