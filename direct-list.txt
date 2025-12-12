@@ -77,3 +77,4 @@ chinanews.com
 aiqiyi.com
 lbdimg.com
 bdstatic.com
+zaodian.com
