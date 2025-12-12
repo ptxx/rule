@@ -6,3 +6,12 @@ tmall.com
 tmall.hk
 quark.cn
 right.com.cn
+douyin.com
+iesdouyin.com
+jinritemai.com
+oceanengine.com
+toutiao.com
+ixigua.com
+doubao.com
+huoshan.com
+bytedance.com
