@@ -130,3 +130,5 @@ bilibilipay.com
 bilibilipay.cn
 hdslb.com
 bilivideo.com
+doubanio.com
+alibabadns.com
