@@ -133,3 +133,15 @@ bilivideo.com
 doubanio.com
 alibabadns.com
 mmstat.com
+youku.com
+youku.com.cn
+youku.net
+youku.org
+youku.tv
+tudou.com
+tudou.com.cn
+laifeng.com
+soku.com
+paike.com
+laifeng.net
+soku.cn
