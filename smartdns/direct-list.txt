@@ -153,3 +153,4 @@ wechatpay.cn
 icloud.com.cn
 ykimg.com
 codelife.cc
+baidu-int.com
