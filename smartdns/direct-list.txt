@@ -150,3 +150,4 @@ aaplimg.com
 tbcache.com
 qlogo.cn
 wechatpay.cn
+icloud.com.cn
