@@ -151,3 +151,4 @@ tbcache.com
 qlogo.cn
 wechatpay.cn
 icloud.com.cn
+ykimg.com
