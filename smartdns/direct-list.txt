@@ -148,3 +148,5 @@ soku.cn
 aaplimg.com
 126.net
 tbcache.com
+qlogo.cn
+wechatpay.cn
