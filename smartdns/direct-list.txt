@@ -52,9 +52,7 @@ qqgame.com
 qqmusic.com
 kugou.com
 kuwo.cn
-bilibili.com
 foxmail.com
-paipai.com
 tenpay.com
 weixinpay.com
 gtimg.com
@@ -119,7 +117,6 @@ bilibili.cn
 bilibili.net
 bilibili.tv
 bilibili.cc
-bilibili.com.hk
 bili.com
 biligame.com
 bigfun.cn
