@@ -167,3 +167,5 @@ www.apple.com
 xp.apple.com
 icloud.com
 apple-dns.net
+apple-dns.cn
+apple.cn
