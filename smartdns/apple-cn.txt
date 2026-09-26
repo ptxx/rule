@@ -170,3 +170,4 @@ apple-dns.net
 apple-dns.cn
 apple.cn
 apple.com.cn
+apple.com
