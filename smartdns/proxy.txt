@@ -138,3 +138,8 @@ fikfap.com
 auth0.com
 oaistatic.com
 poe2db.tw
+emby.moe
+ouonet.org
+xxlb.net
+hills.im
+unpkg.com
